@@ -1,0 +1,6 @@
+{
+  "name": "PayAI Command Center",
+  "description": "x402 Agent Spend Policy Engine & Decentralized Agent Management Center",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
